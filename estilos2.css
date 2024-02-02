@@ -5,11 +5,11 @@
     }
 
     .caja2{
-        background-color: purple;
-        width: 90%;
-        height: 10px;
-        border:pink; 
-        border-radius: 2cm;
-        top: 140px;
+        background-color: yellow;
+        width: 120%;
+        height: 15px;
+        border:red; 
+        border-radius: 6cm;
+        top: 150px;
         position: absolute;
           }

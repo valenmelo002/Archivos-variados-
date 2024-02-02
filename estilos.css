@@ -1,0 +1,14 @@
+.allcaja{
+    display: flex;
+    flex-direction: column;
+  
+    }
+    
+.caja1{
+   background-color: black;
+    width: 160px;
+    height: 110px;
+    border: blue groove;
+    border-radius: 8px;
+    position: absolute;
+    }
